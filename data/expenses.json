@@ -1,0 +1,10 @@
+[
+    {
+        "description": "food",
+        "amount": 15.0
+    },
+    {
+        "description": "travel",
+        "amount": 30.0
+    }
+]
